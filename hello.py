@@ -1,7 +1,7 @@
 
-def hello():
+def NOhello():
     print("hello")
 
-def goodbye():
+def NOgoodbye():
     print("good bye")
 
